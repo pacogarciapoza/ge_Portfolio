@@ -1,0 +1,17 @@
+/*FORMULARIOS*/
+
+label{
+    font-size:14px;
+    color: #404040;
+}
+input, textarea, search:focus{
+    background-color: #ffefb3;
+}
+input, textarea{
+    font-size:14px;
+    padding: 8px;;
+    margin: 6px 0px 6px 0px;
+    border:1px solid black;
+    border-radius: 4px;
+}
+
